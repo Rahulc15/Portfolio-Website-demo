@@ -604,7 +604,7 @@ input[type="submit"]:hover{
 
     .portfolio-description{
         margin: 0;
-        order: 2; /*which has more order takes more space */
+        order: 2; /*which has more order takes more space*/
     }
 
     .timeline p{
